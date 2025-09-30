@@ -1,0 +1,9 @@
+ultralytics==8.1.0
+torch>=2.7.1
+torchvision
+opencv-python
+numpy
+stable-baselines3
+gym
+matplotlib
+
