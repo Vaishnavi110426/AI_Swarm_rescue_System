@@ -1,0 +1,6 @@
+# data/yolo_data.yaml
+train: ../data/custom/images/train
+val: ../data/custom/images/val
+
+nc: 1
+names: ['person']
