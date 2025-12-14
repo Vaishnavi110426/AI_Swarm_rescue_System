@@ -113,4 +113,4 @@ screen shots:
 
 🤝 Contributions
 
-Pragathi Vaishnavi  – Lead Developer, AI/ML Integration, RL Agent Design
+Pragathi Vaishnavi  – Lead Developer, AI/ML Integration, RL Agent Design.
