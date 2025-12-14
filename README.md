@@ -114,3 +114,9 @@ screen shots:
 🤝 Contributions
 
 Pragathi Vaishnavi  – Lead Developer, AI/ML Integration, RL Agent Design.
+
+Screen Recording: 
+
+https://github.com/user-attachments/assets/f24fd8ff-2505-4e29-bf69-e91cafcc06ee
+
+
